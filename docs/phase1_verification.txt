@@ -1,0 +1,2 @@
+OK: Ollama version 0.30.5
+OK: llama3.2:3b replied: 'PONG'

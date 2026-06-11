@@ -1,6 +1,6 @@
 # Environment Provenance (Phase 1)
 
-Captured: 2026-06-09T14:53:14Z
+Captured: 2026-06-09T23:47:43Z
 
 ## Host
 ```
@@ -21,7 +21,7 @@ python arch: arm64
 ```
 ollama version is 0.30.5
 NAME           ID              SIZE      MODIFIED     
-llama3.2:3b    a80c4f17acd5    2.0 GB    14 hours ago    
+llama3.2:3b    a80c4f17acd5    2.0 GB    23 hours ago    
   Model
     architecture        llama     
     parameters          3.2B      
@@ -55,7 +55,7 @@ httpcore==1.0.9
 httpx==0.28.1
 idna==3.18
 iniconfig==2.3.0
-## !! Could not determine repository location
+# Editable Git install with no remote (llm-sectest==0.1.0)
 -e /Users/adamalizeerj/projects/llm-sectest
 markdown-it-py==4.2.0
 mdurl==0.1.2
